@@ -9,7 +9,10 @@
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
 	"keywords": ["obsidian", "plugin", "markdown"],
-	"author": "daviddenhaan",
+	"author": {
+		"name": "David den Haan",
+		"url": "https://github.com/daviddenhaan"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
