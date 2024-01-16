@@ -1,0 +1,10 @@
+{
+	"id": "pagebreak",
+	"name": "PageBreak",
+	"minAppVersion": "1.5.3",
+	"description": "A very simple plugin for inserting a page break in your markdown documents.",
+	"author": "David den Haan",
+	"authorUrl": "https://github.com/daviddenhaan",
+	"isDesktopOnly": false,
+	"version": "1.0.0"
+}
